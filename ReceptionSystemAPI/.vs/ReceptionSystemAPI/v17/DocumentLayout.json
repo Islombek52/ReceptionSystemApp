@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +33,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\migrations\\20241130174341_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\migrations\\20241130174341_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\RoomsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\GuestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\ReservationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Reservation.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RoomsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\RoomsController.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Room.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Room.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "GuestsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\GuestsController.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Guest.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Guest.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\UsersController.cs",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\User.cs",
@@ -171,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "20241130174341_YourMigrationName.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
@@ -183,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\appsettings.json",
@@ -195,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",

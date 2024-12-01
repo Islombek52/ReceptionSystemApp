@@ -58,20 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:38:46.31Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -134,6 +122,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:28:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:38:46.31Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs",
@@ -143,19 +156,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T15:29:58.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
-              "RelativeToolTip": "ReceptionSystemAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:28:04.62Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
