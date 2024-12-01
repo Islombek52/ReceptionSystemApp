@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\onedrive\\studies and job\\level_5_wiut\\webappdev\\receptionsystemapi\\receptionsystemapi\\migrations\\20241130174341_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\migrations\\20241130174341_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:38:46.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Reservation.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:38:01.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:37:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Room.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:34:56.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\GuestsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:34:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Guest.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Models\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:32:13.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:29:58.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:28:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:27:37.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241130174341_YourMigrationName.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:43:41.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\appsettings.json",
+              "RelativeToolTip": "ReceptionSystemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T17:27:17.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Studies and Job\\Level_5_WIUT\\WebAppDev\\ReceptionSystemAPI\\ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:23:59.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
