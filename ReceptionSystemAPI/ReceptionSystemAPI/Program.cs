@@ -19,6 +19,8 @@ builder.Services.AddCors(options =>
                .AllowAnyMethod());
 });
 
+
+
 var app = builder.Build(); // Build the application after registering services
 
 // Configure the HTTP request pipeline.
@@ -35,7 +37,13 @@ app.UseStaticFiles();   // Serve static assets like JS, CSS, etc.
 app.UseRouting();
 
 // Use the CORS policy before authorization
-app.UseCors("AllowAngularApp");
+//app.UseCors("AllowAngularApp");
+
+app.UseCors(builder =>
+    builder.WithOrigins("http://localhost:4200")
+           .AllowAnyHeader()
+           .AllowAnyMethod());
+
 
 app.UseAuthorization();
 

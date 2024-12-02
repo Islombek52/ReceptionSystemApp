@@ -1,28 +1,28 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClientModule } from '@angular/common/http'; // Import HttpClientModule
-import { HttpClient } from '@angular/common/http';
+import { GuestService } from '../Models/services/guest.service'; // Adjust the path if needed
+import { Guest } from '../Models/guest'; // Adjust the path if needed
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-guest',
-  standalone: true,  // This makes the component standalone
+  standalone: true,
   templateUrl: './guest.component.html',
   styleUrls: ['./guest.component.css'],
-  imports: [HttpClientModule]  // Add HttpClientModule to the imports array
+  imports: [CommonModule]
 })
 export class GuestComponent implements OnInit {
-  guests: any[] = []; // Array to store guest data
+  guests: Guest[] = [];
 
-  constructor(private http: HttpClient) {}
+  constructor(private guestService: GuestService) {}
 
   ngOnInit(): void {
-    this.fetchGuests(); // Fetch guests when the component is initialized
+    this.fetchGuests();
   }
 
   fetchGuests(): void {
-    const apiUrl = 'http://localhost:5000/api/guests'; // Adjust to match your API endpoint
-    this.http.get<any[]>(apiUrl).subscribe(
+    this.guestService.getGuests().subscribe(
       (data) => {
-        this.guests = data; // Assign fetched data to the guests array
+        this.guests = data;
       },
       (error) => {
         console.error('Error fetching guests:', error);

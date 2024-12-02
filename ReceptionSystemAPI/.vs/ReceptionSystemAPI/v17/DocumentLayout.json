@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +43,16 @@
       "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\migrations\\20241130174341_yourmigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\RoomsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\GuestsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\ReservationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReceptionSystemAPI\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|c:\\users\\user\\documents\\receptionsystemapp\\receptionsystemapi\\receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2E15-5994-45D0-93BE-C4AFDD6DD83D}|ReceptionSystemAPI\\ReceptionSystemAPI.csproj|solutionrelative:receptionsystemapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReceptionSystemAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T11:48:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:28:04.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Reservation.cs",
@@ -74,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RoomsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\RoomsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\RoomsController.cs",
@@ -86,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Room.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Room.cs",
@@ -98,44 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "GuestsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\GuestsController.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\GuestsController.cs",
               "RelativeToolTip": "ReceptionSystemAPI\\Controllers\\GuestsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:34:13.955Z"
+              "WhenOpened": "2024-12-01T15:34:13.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Guest.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\Guest.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\Guest.cs",
               "RelativeToolTip": "ReceptionSystemAPI\\Models\\Guest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:32:13.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Program.cs",
-              "RelativeToolTip": "ReceptionSystemAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:28:04.62Z",
+              "WhenOpened": "2024-12-01T15:32:13.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\ReservationsController.cs",
@@ -147,7 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
+              "RelativeToolTip": "ReceptionSystemAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:27:37.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Controllers\\UsersController.cs",
@@ -159,19 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ReceptionSystemAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Models\\User.cs",
-              "RelativeToolTip": "ReceptionSystemAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:27:37.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20241130174341_YourMigrationName.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Migrations\\20241130174341_YourMigrationName.cs",
@@ -183,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\appsettings.json",
@@ -195,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\ReceptionSystemApp\\ReceptionSystemAPI\\ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ReceptionSystemAPI\\Data\\ApplicationDbContext.cs",

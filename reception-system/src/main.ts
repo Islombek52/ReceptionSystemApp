@@ -1,5 +1,5 @@
 import { bootstrapApplication } from '@angular/platform-browser';
-import { provideHttpClient } from '@angular/common/http';
+import { provideHttpClient, withFetch } from '@angular/common/http';
 import { provideRouter, Routes } from '@angular/router';
 import { AppComponent } from './app/app.component';
 import { GuestComponent } from './app/guest/guest.component';
@@ -20,7 +20,7 @@ const routes: Routes = [
 // Bootstrap the application with routing
 bootstrapApplication(AppComponent, {
   providers: [
-    provideHttpClient(), // Provides HttpClient
+    provideHttpClient(withFetch()), // Provides HttpClient
     provideRouter(routes), // Provides routes for navigation
   ],
 }).catch((err) => console.error(err));
